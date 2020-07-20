@@ -4,6 +4,4 @@
 
 💻 Write the right code...
 
-[📚 Books I’m Reading](https://github.com/sogoagain/bookshelf)
-
-[📝 Blog](https://sogoagain.github.io/)
+[📝 Blog](https://sogoagain.github.io/) & [📚 Books I’m Reading](https://github.com/sogoagain/bookshelf)
